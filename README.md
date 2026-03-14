@@ -136,9 +136,13 @@ These findings illustrate how data analytics can help identify **technology adop
 This project was completed as part of the **IBM Data Analyst Professional Certificate on Coursera**.
 
 The notebooks included in this repository originate from course materials provided by IBM and served as **instructional templates and guided exercises**.
-While the structure of the notebooks was provided within the course, the **analysis, code completion, visualizations, and project interpretation were developed as part of my work in completing the capstone project.**
+While the structure of the notebooks was provided within the course, the **analysis, code completion, visualizations, and project interpretation were developed as part of my work in completing the capstone project.** The template structure, instructional text, and any starter code originally provided by **IBM remain the intellectual property of IBM and the course authors**.
 
+This repository is shared to document my learning process and completed capstone work. **The notebook templates are included here only in the context of my completed coursework and not as a claim of authorship over IBM’s original instructional materials**.
+
+For more information about the program, please visit:
+https://www.coursera.org/professional-certificates/ibm-data-analyst 
 ---
 
-ge and makes the page visually engaging)**.
+
 
